@@ -1,0 +1,5 @@
+Answer is K = 3
+Although when using Silhouette Score the best score apears with k of 2. 
+    when using SSE the score drops more with 3 and after that there is diminishing effect
+    So looks like K may be the best choice. Also we know that there are probebly 3 types of flower
+    So the answer pbrobebly right 
